@@ -1,0 +1,4 @@
+The student Maria got a 9.5 in Math class.
+The student John got a 6.6 in Math class.
+The student Stuart got a 8 in Math class.
+The student Peter got a 4 in Math class.
